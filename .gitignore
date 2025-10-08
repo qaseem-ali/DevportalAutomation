@@ -1,0 +1,16 @@
+# Node dependencies
+node_modules/
+
+# Playwright reports and test results
+playwright-report/
+test-results/
+
+# Logs and environment files
+*.log
+.env
+
+# Cache and IDE configs
+.cache/
+.vscode/
+.DS_Store
+Thumbs.db
